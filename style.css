@@ -68,3 +68,13 @@ button:focus {
   background-color: #526bbd;
   outline: none;
 }
+
+@media (max-width: 450px) {
+  .quiz-container {
+    margin: 0 20px;
+  }
+  .quiz-header {
+    padding: 1rem;
+  }
+}
+
